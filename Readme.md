@@ -44,7 +44,7 @@ The application can be configured using environment variables:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/PaladinKnightMaster/ethereum-parser.git
+    git clone https://github.com/holyblock/ethereum-parser.git
     cd ethereum-parser
     ```
 
